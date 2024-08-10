@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+h1{
+    
+    color:antiquewhite;
+    font-family: "Libre Baskerville",serif;
+    text-transform:uppercase;
+}
+.motivational{
+    text-align:center;
+    width:50%;
+    margin-left: 25%;
+
+}
+.manu{
+    width:100%;
+    border:5px solid white;
+}
